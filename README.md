@@ -1,5 +1,8 @@
 # ✂️ Barbearia MVP - Sistema de Agendamento
-#atenção, projeto não está 100% finalizado.
+#(atenção, projeto não está 100% finalizado.)
+
+
+
 Um sistema moderno para barbearia desenvolvido com React no frontend e FastAPI no backend, facilitando o agendamento de horários e gestão de serviços.
 
 ### ✅ Implementadas
